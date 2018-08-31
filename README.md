@@ -221,7 +221,7 @@ AFNetworking을 사용하거나 URLSession을 사용해서 구현할것 같습�
 Codable 이전에는 어떻게 파싱했을까
 Swift3에서는 SwiftyJSON을 사용할것 같습니다.
 
-app life cycle
+- app life cycle
 Not running -> Inactive -> Active -> background -> Suspended -> 제거
 Not running -> Inactive -> Active -> background -> Inactive
 Inactive + Active를 Foreground 라고 함
