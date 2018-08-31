@@ -202,14 +202,14 @@ NSSet - 순서가 없고 유니크한 값을 가집니다.
 순환 참조를 막기 위해서 assign / weak을 사용합니다.
 참조 카운터를 올리지 않았기 때문에 강한 순환 참조를 방지할수 있습니다.
 
-MVC패턴설명
+- MVC패턴설명
 Model, View, ViewController로 나누는 패턴으로 Model과 View는 대화를 할수 없고 View와 ViewController는 델리게이트, action을 통해서 대화하고, Model과 ViewController는 KVO, Notification으로 대화하는 걸 말합니다
 
-Auto release pool을 동작 설명
+- Auto release pool을 동작 설명
 Autorelease는 실제 코딩시 생성한 객체들을 일일히 적절한 타이밍에 해제해 주는것이 어렵고 객체가 해제되는 시점을 사람이 정하는것도 쉽지 않아서 해제해야 할 객체들을 모아 놨다가 release를 하는걸 말합니다.
 @autoreleasepool 키워드를 넣으면 실행 됩니다.
 
-버전은 어디까지 커버가 가능한지
+- 버전은 어디까지 커버가 가능한지
 Swift4, iOS7
 
 - alamofier없으면 뭐쓸건지
