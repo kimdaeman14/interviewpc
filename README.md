@@ -218,7 +218,7 @@ AFNetworking을 사용하거나 URLSession을 사용해서 구현할것 같습�
 오브젝티브c볼줄아냐 (버전관리때문에 )
 능숙하진 않지만 수업때 예제들을 간간히 배웠고 읽을 수는 있습니다. 그리고 Swiftify같은 프로그래을 활용 할 수 있다.
 
-Codable 이전에는 어떻게 파싱했을까
+- Codable 이전에는 어떻게 파싱했을까
 Swift3에서는 SwiftyJSON을 사용할것 같습니다.
 
 - app life cycle
