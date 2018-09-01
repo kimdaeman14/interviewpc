@@ -208,7 +208,7 @@ Autorelease는 실제 코딩시 생성한 객체들을 일일히 적절한 타�
 Swift4, iOS7
 
 - alamofier없으면 뭐쓸건지
-AFNetworking을 사용하거나 URLSession을 사용해서 구현할것 같습니다.
+AFNetworking을 사용하거나 URLSession을 사용해서 구현하겠습니다.
 
 - 오브젝티브c볼줄아냐 (버전관리때문에 )
 능숙하진 않지만 수업때 예제들을 간간히 배웠고 읽을 수는 있습니다. 그리고 Swiftify같은 프로그래을 활용 할 수 있다.
