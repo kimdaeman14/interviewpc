@@ -214,7 +214,7 @@ AFNetworking을 사용하거나 URLSession을 사용해서 구현할것 같습�
 능숙하진 않지만 수업때 예제들을 간간히 배웠고 읽을 수는 있습니다. 그리고 Swiftify같은 프로그래을 활용 할 수 있다.
 
 - Codable 이전에는 어떻게 파싱했을까
-Swift3에서는 SwiftyJSON을 사용할것 같습니다.
+Swift3에서는 SwiftyJSON을 사용할것 같습니다. 
 
 - app life cycle
 Not running -> Inactive -> Active -> background -> Suspended -> 제거
@@ -235,6 +235,7 @@ midium과같은 기술블로그나, 매주마다 ㅇㅇ위클리ㄹ를 통해서
 
 
 - 팀프로젝트를 하면서 너는 어느부분을 맡았니, 어려움은 없었니
+배민찬을했는데 상세페이지부터 - 
 
 
 - SVC이나 git써봤니
