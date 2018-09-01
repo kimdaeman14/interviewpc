@@ -238,6 +238,7 @@ NSString *a = [b copy];
 
 
 - SVC이나 git써봤니
+git과 github를 사용해봤습니다.
 
 
 - 다른 사람과 의견 충돌해본 경험, 그것을 어떻게 풀어갔나?
