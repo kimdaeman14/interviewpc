@@ -220,7 +220,9 @@ Swift3에서는 SwiftyJSON을 사용할것 같습니다.
 Not running -> Inactive -> Active -> background -> Suspended -> 제거
 Not running -> Inactive -> Active -> background -> Inactive
 Inactive + Active를 Foreground 라고 함
-NSString *b = @"test";
+ㅡ.ㅡ 이거는 음 어디서 무슨메서드가실행되나 그런게아니라 포어그라운드 뭐그라운드해서 기본베이스지식이필요 
+
+- NSString *b = @"test";
 NSString *a = [b copy]; 
 에서 a와 b는 같은가? (주소값 포함)
 
