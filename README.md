@@ -254,3 +254,5 @@ git과 github를 사용해봤습니다.
 - library란?
 
 - rxswift란?
+
+- mvvm패턴이란?
