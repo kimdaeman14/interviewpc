@@ -76,6 +76,11 @@ Object-Oriented Programming, Protocol-Oriented Programming
 OOP는 추상화, 캡슐화, 상속성, 다형성을 이용해서 상향식 접근법으로 프로그래밍을 하여, 코드 재사용을 증가 시키고 유지보수를 감소시킬려고 하는 프로그래밍 방법입니다.
 POP는 하향식 접근법 따르며 Protocol과 extension을 통한 수평확장을 통해서 코드 재사용과 유지보수를 감소시킬려고 하는 프로그래밍 방법입니다.
 
+
+-POP란 ? 
+POP는 하향식 접근법 따르며 Protocol과 extension을 통한 수평확장을 통해서 코드 재사용과 유지보수를 감소시킬려고 하는 프로그래밍 방법입니다.
+
+
 - Call by value(밸류 타입), Call by reference(참조 타입)
 Call by value는 변수 할당시 Stack에 값 전체가 저장됩니다.
 다른 변수에 할당될 때 전체 값이 복사되기 때문에 (Copy by value) 변수들이 분리되어 하나를 변경해도 다른 것에는 영향이 없습니다.
