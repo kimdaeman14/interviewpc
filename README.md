@@ -252,4 +252,48 @@ git과 github를 사용해봤습니다.
 
 - rxswift란?
 
-- mvvm패턴이란?
+- mvvm, mvc, mvp패턴이란?
+
+• Restful API 연동을 자유롭게 구현할 수 있는 개발자
+• SQLite / Realm 등 데이터베이스 개발 경험자
+• 커뮤니케이션이 원활한 분
+• 적극적인 마인드를 가지신 분
+
+우대 사항
+• 카메라 어플리케이션 개발 경험이 있는 분
+• OpenGL ES2.0 및 shader 개발 경험이 있는 분
+
+
+
+Cocoapod 라이브러리 사용 경험
+AutoLay 사용 경험
+MVC, MVVM, MVP 패턴에 대한 이해
+기술동향에 꾸준한 관심을 갖고 지속적인 학습을 즐기시는분
+훌륭한 동료에 잘 부합하는 분: 링크
+우대사항
+iOS 개발 3년 이상 + 다양한 프로젝트 경험자
+GIT 소스관리 익숙하고, 빌드 자동화 경험자
+IBDesignable, Autolayout Priority 조절, Autolayout Safe Area 활용 경험
+Fabric 등 Crash Report 분석 경험
+Objective C, Swift 컨버팅 경험
+동일 서비스 1년 이상의 운영경험
+앱 출시 경험(스토어 링크 첨부)
+결혼을 앞두고 있거나 최근 결혼하신 분
+
+
+
+- iOS 프레임워크 경험자 우대
+- Realm mobile database 경험자 우대
+- RESTful API 연결 서비스 개발 경험자 우대
+- 스토어 출시 경험 및 운영 경험자 우대
+- 컴퓨터 공학 또는 관련 학과 전공자 우대
+
+지원 자격
+Swift 기반의 iOS 앱 개발 경험이 있습니다.
+iOS 플랫폼과 애플의 HIG에 대해 이해하고 있습니다.
+Storyboard, Autolayout을 이용하여 UI를 구성할 수 있습니다.
+우대 사항
+Functional Reactive Programming에 대해 이해하고 있으며 RxSwift에 익숙합니다.
+Protocol Oriented Programming에 대해 이해하고 있습니다.
+Unit Test 작성, TDD 기반의 개발 경험이 있습니다.
+Instruments 등의 툴을 이용한 최적화 경험이 있습니다.
