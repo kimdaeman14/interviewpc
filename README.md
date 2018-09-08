@@ -316,7 +316,7 @@ for count in 1...bubble.count {
 }
 print(bubble)
 
-selection Sort
+- selection Sort
 
 var selection = [5, 2, 4, 6, 1, 3]
 
