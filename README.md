@@ -286,17 +286,7 @@ Objective C, Swift 컨버팅 경험
 - Realm mobile database 경험자 우대
 - RESTful API 연결 서비스 개발 경험자 우대
 - 스토어 출시 경험 및 운영 경험자 우대
-- 컴퓨터 공학 또는 관련 학과 전공자 우대
-
-지원 자격
-Swift 기반의 iOS 앱 개발 경험이 있습니다.
-iOS 플랫폼과 애플의 HIG에 대해 이해하고 있습니다.
-Storyboard, Autolayout을 이용하여 UI를 구성할 수 있습니다.
-우대 사항
-Functional Reactive Programming에 대해 이해하고 있으며 RxSwift에 익숙합니다.
-Protocol Oriented Programming에 대해 이해하고 있습니다.
-Unit Test 작성, TDD 기반의 개발 경험이 있습니다.
-Instruments 등의 툴을 이용한 최적화 경험이 있습니다.
+- 컴퓨터 공학 또는 관련 학과 전공자 우대=
 
 
 
