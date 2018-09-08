@@ -265,21 +265,6 @@ git과 github를 사용해봤습니다.
 
 
 
-Cocoapod 라이브러리 사용 경험
-AutoLay 사용 경험
-MVC, MVVM, MVP 패턴에 대한 이해
-기술동향에 꾸준한 관심을 갖고 지속적인 학습을 즐기시는분
-훌륭한 동료에 잘 부합하는 분: 링크
-우대사항
-iOS 개발 3년 이상 + 다양한 프로젝트 경험자
-GIT 소스관리 익숙하고, 빌드 자동화 경험자
-IBDesignable, Autolayout Priority 조절, Autolayout Safe Area 활용 경험
-Fabric 등 Crash Report 분석 경험
-Objective C, Swift 컨버팅 경험
-동일 서비스 1년 이상의 운영경험
-앱 출시 경험(스토어 링크 첨부)
-결혼을 앞두고 있거나 최근 결혼하신 분
-
 
 
 
