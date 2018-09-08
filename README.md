@@ -301,7 +301,7 @@ Instruments 등의 툴을 이용한 최적화 경험이 있습니다.
 
 
 
-Bubble Sort
+- Bubble Sort
 var bubble = [5, 3, 7, 1, 6, 9, 2, 10, 13]
 var count = 0
 
