@@ -331,7 +331,9 @@ for number in 0..<selection.count {      // 0, 1, 2, 3, 4, 5
         print(selection)
     }
 }
-2 이상의 정수를 입력받아, 소수인지 아닌지를 판별하는 함수
+
+
+- 2 이상의 정수를 입력받아, 소수인지 아닌지를 판별하는 함수
 
 func primeNumber (num1: Int) -> String {
     guard num1 > 1 else { return "2이상의 정수를 입력하세요" }
@@ -352,6 +354,6 @@ for i in 0...100 {
     print(primeNumber(num1: i))
 }
 
-정수를 입력받아 입력받은 수에 해당하는 자리의 피보나치 숫자를 반환하는 함수
+- 정수를 입력받아 입력받은 수에 해당하는 자리의 피보나치 숫자를 반환하는 함수
 피보나치 수열이란 앞의 두 수를 더하면 뒤의 수
 
