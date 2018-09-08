@@ -282,14 +282,6 @@ Objective C, Swift 컨버팅 경험
 
 
 
-- iOS 프레임워크 경험자 우대
-- Realm mobile database 경험자 우대
-- RESTful API 연결 서비스 개발 경험자 우대
-- 스토어 출시 경험 및 운영 경험자 우대
-- 컴퓨터 공학 또는 관련 학과 전공자 우대=
-
-
-
 
 - Bubble Sort
 var bubble = [5, 3, 7, 1, 6, 9, 2, 10, 13]
