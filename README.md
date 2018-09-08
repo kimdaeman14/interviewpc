@@ -297,3 +297,61 @@ Functional Reactive Programming에 대해 이해하고 있으며 RxSwift에 익�
 Protocol Oriented Programming에 대해 이해하고 있습니다.
 Unit Test 작성, TDD 기반의 개발 경험이 있습니다.
 Instruments 등의 툴을 이용한 최적화 경험이 있습니다.
+
+
+
+
+Bubble Sort
+var bubble = [5, 3, 7, 1, 6, 9, 2, 10, 13]
+var count = 0
+
+for count in 1...bubble.count {
+    for idx in 0..<bubble.count - count {
+        if bubble[idx] > bubble[idx + 1] {
+            let value = bubble[idx]
+            bubble[idx] = bubble[idx + 1]
+            bubble[idx + 1] = value
+        }
+    }
+}
+print(bubble)
+
+selection Sort
+
+var selection = [5, 2, 4, 6, 1, 3]
+
+for number in 0..<selection.count {      // 0, 1, 2, 3, 4, 5
+    print(number)
+    for idx in 0...number {
+        if  selection[idx] > selection[number] {
+            let value = selection[number]
+            selection[number] = selection[idx]
+            selection[idx] = value
+        }
+        print(selection)
+    }
+}
+2 이상의 정수를 입력받아, 소수인지 아닌지를 판별하는 함수
+
+func primeNumber (num1: Int) -> String {
+    guard num1 > 1 else { return "2이상의 정수를 입력하세요" }
+    
+    let number = [2, 3, 5, 7, 9] // 9이하의 약수
+    
+    for i in number {
+        if num1 == 2 || num1 == 3 || num1 == 5 || num1 == 7 {
+            return "\(num1)는 소수 입니다."
+        } else if num1 % i == 0 {
+            return "\(num1)은 소수가 아닙니다."
+        }
+    }
+    return "\(num1)은 소수입니다."
+}
+
+for i in 0...100 {
+    print(primeNumber(num1: i))
+}
+
+정수를 입력받아 입력받은 수에 해당하는 자리의 피보나치 숫자를 반환하는 함수
+피보나치 수열이란 앞의 두 수를 더하면 뒤의 수
+
