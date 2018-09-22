@@ -363,6 +363,7 @@ Cell들을 재사용하는 작업을 진행중에 본래 라이브러리들도 D
 Toaster (간단한 인터페이스 같은 토스 , 알림창띄우기보단 사용법이 간단하 자주 사용하고있습니다.)
 ObjectMapper (모델 객체 (클래스 및 구조체)를 JSON으로 쉽게 변환 할 수있게 해주는 Swift로 작성된 프레임 워크)
 Then (간단하게 swift initializers)
-Alramofire, Kingfisher"									
+Alramofire, Kingfisher"	
+
 - 참여한 오픈소스가 있나요? 설명해보세요.								
 										
