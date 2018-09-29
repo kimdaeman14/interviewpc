@@ -368,5 +368,5 @@ ObjectMapper (모델 객체 (클래스 및 구조체)를 JSON으로 쉽게 변�
 Then (간단하게 swift initializers)
 Alramofire, Kingfisher"	
 
-- 참여한 오픈소스가 있나요? 설명해보세요.								
+- 참여한 오픈소스가 있나요?  설명해보세요.								
 										
